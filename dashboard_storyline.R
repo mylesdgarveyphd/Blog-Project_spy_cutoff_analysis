@@ -327,4 +327,34 @@ if(log_scale){
 ggplotly(p4_1)
 ggplotly(p4_2)
 
+################################################################
+#Step (5) Do Time Differences Happen Differently Throughout Time? 
+################################################################
+
+#COMPLETED:
+#Fix split option on Tab 3
+
+
+#OUTSTANDING:
+
+#Next Tasks:
+
+#Block 1
+#Break apart the date column into year, quarter, month, week, day of week
+#Determine which plots to design based on time.  Which columns will be in filter, plot, or both?
+#Generate code to do generate the plots and generalize the inputs
+#Attach the plots to a 5th tab in the dashboard
+
+#Block 2:
+#Cleanup dashboard, add descriptions, change styling to make it more professional
+#Find how to publish RShiny Dashboard
+#Connect it to mylesgarvey.com website
+#Write ADHD Article using screenshots from the tool, linking to the github and the dashboard itself
+
+
+
+
+
+
+
 
